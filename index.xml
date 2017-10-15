@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Evidence Synthesis Academy</title>
-    <link>https://evsynthacademy.org/</link>
+    <link>http://evsynthacademy.org/</link>
     <description>Recent content on Evidence Synthesis Academy</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="https://evsynthacademy.org/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://evsynthacademy.org/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>About</title>
-      <link>https://evsynthacademy.org/about/</link>
+      <link>http://evsynthacademy.org/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://evsynthacademy.org/about/</guid>
+      <guid>http://evsynthacademy.org/about/</guid>
       <description>Based in the Center for Evidence Synthesis in Health, in the Brown University School of Public Health, the Evidence Synthesis Academy is an Agency for Healthcare Research and Quality (AHRQ)-funded education program, focused on training the next generation of producers and consumers of Comparative Effectiveness Research and Patient Centered Outcomes Research (CER/PCOR).
 Our Mission The Evidence Synthesis Academy seeks to promote an understanding and appreciation of evidence synthesis. We aim to increase utilization of proper methods for its implementation for its use locally and globally.</description>
     </item>
     
     <item>
       <title>Videos</title>
-      <link>https://evsynthacademy.org/videos/</link>
+      <link>http://evsynthacademy.org/videos/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://evsynthacademy.org/videos/</guid>
+      <guid>http://evsynthacademy.org/videos/</guid>
       <description></description>
     </item>
     
