@@ -3,25 +3,25 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/about/</loc>
+    <loc>https://evsynthacademy.org/about/</loc>
   </url>
   
   <url>
-    <loc>/videos/</loc>
+    <loc>https://evsynthacademy.org/videos/</loc>
   </url>
   
   <url>
-    <loc>/categories/</loc>
+    <loc>https://evsynthacademy.org/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/</loc>
+    <loc>https://evsynthacademy.org/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/</loc>
+    <loc>https://evsynthacademy.org/tags/</loc>
     <priority>0</priority>
   </url>
   
