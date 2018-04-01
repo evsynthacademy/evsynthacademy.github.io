@@ -240,8 +240,8 @@ a:hover {
 }
 #head img.img-square {
   display: block;
-  width: 300px;
-  height: 300px;
+  width: 3000px;
+  height: 3000px;
   overflow: hidden;
   border: 9px solid rgba(0, 0, 0, 0.05);
   margin: 0 auto;
